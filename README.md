@@ -99,4 +99,6 @@ project-vanguard-ab-test/
 ## 👤 Author
 
 **Tolga Unal**
+**Bruno Serra**
+**Valentin P**
 [LinkedIn](https://www.linkedin.com/in/tolgaaunall) · [GitHub](https://github.com/tolgaunal33)
